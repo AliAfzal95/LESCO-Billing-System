@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LESCO-Billing-System/LESCO-Billing-System.vcxproj" />
+</Solution>

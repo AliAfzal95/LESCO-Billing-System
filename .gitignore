@@ -1,0 +1,27 @@
+# Build outputs
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Build directories
+bin/
+obj/
+out/
